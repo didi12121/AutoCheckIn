@@ -3,7 +3,7 @@
 1. ## 获取cookie
 
     1. 运行jar包前须确保电脑安装了chrome，以及对应版本的 [chromeDriver](https://chromedriver.chromium.org/downloads/version-selection)
-    2. java -jar 运行jar包然后微博扫码登录获取cookie
+    2. java -jar 运行cookie文件夹下的jar包然后微博扫码登录获取cookie
     3. 将获取到的cookie输入到**application.yml**中的**wb.cookie**中
 
 2. ## 获取pid（超话的id）
