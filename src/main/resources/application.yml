@@ -1,0 +1,8 @@
+server:
+  port: ${auto.port}
+
+
+#????? cookie ???????
+wb:
+  cookie: #cookie
+  pid: 100808445c68f22a32b95efe6c3d025512d13c,1008089f1260fce8d1d56c76d01541995b2d5c
